@@ -1,0 +1,5 @@
+python-upwork-oauth2
+flask
+flask_cors
+gunicorn
+python-dotenv
